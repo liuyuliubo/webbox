@@ -1,0 +1,11 @@
+<button bindtap='nexclick'>-</button>
+<view wx:for='{{arr}}' wx:key='{{index}}' bindtap="onTap"  data-id="{{item._id}}">
+  <view class='rebo'>
+    <image src='{{Ips+item.img}}'>
+    </image>
+        <text>
+  {{item.title}}
+  </text>
+  </view>
+ 
+</view>

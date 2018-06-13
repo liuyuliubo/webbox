@@ -1,0 +1,4 @@
+<button bindtap='addclick'>+</button>
+<label>{{num}}</label>
+<button  bindtap='nexclick'>-</button>
+<label>{{name}}</label>

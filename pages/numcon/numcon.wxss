@@ -1,0 +1,10 @@
+button{
+  width: 100rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  background-color: greenyellow
+}
+label{
+display: flex;
+justify-content: center
+}

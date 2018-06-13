@@ -1,0 +1,9 @@
+.rebo{
+  width: 100%;
+  font-size: 16rpx;
+}
+image{
+  margin-top: 10rpx;
+  /* width: 30%; */
+  /* height: 130rpx; */
+}

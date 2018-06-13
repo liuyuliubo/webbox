@@ -1,0 +1,9 @@
+
+<view>
+  <image src='{{Ips+img}}'>
+  </image>
+  <text class='tit'>{{title}}</text>
+</view>
+<view wx:for='{{song}}' wx:key='{{index}}'>
+  <text>{{index}}、{{item.name}}</text>
+</view>
